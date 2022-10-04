@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "es6-css-minify.minifyOnSave": "no"
+}
